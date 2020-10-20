@@ -1,0 +1,5 @@
+*.zip
+data/
+tmp/
+results/
+*/__pycache__/
